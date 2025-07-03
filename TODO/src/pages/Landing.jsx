@@ -245,7 +245,7 @@ const App = () => {
 
       {/* CTA Section */}
       <div className="py-20 px-6 relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-purple-900/20 to-pink-900/20 blur-3xl"></div>
+        <div className="absolute inset-0 bg-black blur-3xl"></div>
         <div className="max-w-4xl mx-auto text-center relative z-10">
           <h2 className="text-4xl md:text-5xl font-bold mb-6">Ready to boost your productivity?</h2>
           <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto">Join over 100,000 users who have transformed their workflow with Doist.</p>
